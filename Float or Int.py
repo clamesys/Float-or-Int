@@ -1,4 +1,4 @@
-i = input ("help::::::")
+i = input()
 if '.' in i:
     i = float(i)
 else:
